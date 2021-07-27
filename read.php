@@ -21,8 +21,8 @@
 		//Creates new record as per request
 		//Connect to database
 		$hostname = "localhost";		//example = localhost or 192.168.0.0
-		$username = "carlos";		//example = root
-		$password = "orozco";	
+		$username = "usuariophpmyadmin";		//example = root
+		$password = "clave";	
 		$dbname = "sensoresget";
 		// Create connection
 		$conn = mysqli_connect($hostname, $username, $password, $dbname);
