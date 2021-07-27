@@ -7,8 +7,8 @@
 	define( "DIR_IMG", HOST . "/images/" );
 
 	define( "MYSQL_HOST", "localhost" );
-	define( "MYSQL_USER", "carlos" );
-	define( "MYSQL_PASSWD", "orozco" );
+	define( "MYSQL_USER", "usuariophpmyadmin" );
+	define( "MYSQL_PASSWD", "clave" );
 	define( "MYSQL_DBNAME", "sensoresget" );
 	
 /*	echo $_SERVER['DOCUMENT_ROOT']."<br>";
