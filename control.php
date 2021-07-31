@@ -10,7 +10,7 @@ $result=$bd->listar();
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>ESP8266 GET</title>
+<title>ESP8266 POST</title>
 		<meta charset="utf-8">
 		<!-- Script for updating pages without refreshing the page -->
 		<script src="jquery.min.js"></script>
